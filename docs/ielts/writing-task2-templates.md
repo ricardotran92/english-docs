@@ -3,7 +3,7 @@
 
 ---
 
-### 🔹 Universal Band 9 Template
+### 🔹 Universal Band 9 Template (Balance)
 
 **Introduction**  
 People hold differing opinions about whether `<restate topic>`.
@@ -14,24 +14,25 @@ In my view, both perspectives have valid points, yet the effectiveness of each l
 
 **Body Paragraph 1 — View 1**  
 On the one hand, there are several reasons why `<group 1>` choose to `<describe view 1>`.
-Firstly, `<reason 1 with explanation>`. This allows them to `<result or outcome>`.
+Firstly, `<reason 1 with explanation>`. This `<verb: allows/enables/provides>` them to `<result or outcome>`.
 Secondly, `<reason 2 with explanation>`. For instance, `<specific example>`.
 As a result, `<positive outcome summarizing this viewpoint>`.
 
 ---
 
 **Body Paragraph 2 — View 2**  
-On the other hand, those who support `<view 2>` argue that `<main argument>`.
-When people `<describe action>`, they can `<benefit, advantage or result>`.
-Moreover, `<reason 2>`. For instance, `<specific scenario>`.
+On the other hand, there are convincing reasons why `<group 2>` prefer to `<describe view 2>`.
+To begin with, `<reason 1 with explanation>`. This enables them to `<benefit or result>`.
+Moreover, `<reason 2 with explanation>`. For instance, `<specific scenario/example>`.
 Therefore, `<why this view is appealing or more practical>`.
+
 
 ---
 
 **Body Paragraph 3 — Your Opinion / Synthesis (optional but band-boosting)**  
 In my opinion, both sides have merit, but `<your stance>` is more (practical or) beneficial in the modern context.
 This is because `<reason/explanation>`.
-Ideally, combining the strengths of both perspectives — such as `<example of balance>` — could yield the most (desirable) outcome.
+Ideally, combining the strengths of both perspectives, such as `<example of balance>`, which could yield the most (desirable) outcome.
 
 ---
 
@@ -39,6 +40,49 @@ Ideally, combining the strengths of both perspectives — such as `<example of b
 In conclusion, although `<summarize view 1>` offers `<benefit>`, `<summarize view 2>` leads to `<benefit>`.
 Therefore, the most appropriate choice depends on `<your final justification>`.
 Nevertheless, a balanced approach that embraces elements of both sides can bring long-term success or sustainability.
+
+
+### 🔹 Universal Band 9 Template (One-Side)
+
+**Introduction**
+
+People hold differing opinions about whether `<restate topic>`.
+While `<paraphrase opposing view>` may offer `<its main advantage>`, I firmly believe that `<your view>` is more `<beneficial/practical>` in the modern context because `<reason>`.
+
+---
+
+**Body Paragraph 1 — Opposing View (Brief & Neutral)**
+
+On the one hand, there are several reasons why `<group 1>` support `<describe opposing view>`.
+Firstly, `<reason 1 with explanation>`. This `<verb: allows/enables/provides>` them to `<result or benefit>`.
+Secondly, `<reason 2 with explanation>`. For instance, `<specific example or situation>`.
+However, this argument may not hold true in all situations, as it overlooks `<main limitation or contrast to your stance>`.
+
+---
+
+**Body Paragraph 2 — Your View (Main Argument)**
+
+On the other hand, I strongly agree that `<your main stance>`.
+To begin with, `<reason 1 with explanation>`. This enables individuals to `<benefit/result>` and better adapt to `<context>`.
+Moreover, `<reason 2 with explanation>`. For example, `<specific scenario/example>` demonstrates how `<your point is more practical or future-oriented>`.
+Therefore, `<why your stance leads to more sustainable or realistic outcomes>`.
+
+---
+
+**Body Paragraph 3 — Opinion Justification / Reinforcement (Optional but Band-boosting)**
+
+In my opinion, `<your stance>` clearly outweighs the opposing argument.
+This is because `<key justification or evidence>`.
+Furthermore, `<reason 2 or consequence>`, which shows why this approach brings long-term advantages.
+Ideally, while the opposing view has some merit, focusing on `<your stance>` remains the most realistic and sustainable approach in today’s world.
+
+---
+
+**Conclusion**
+
+In conclusion, although `<summarize opposing view>` provides `<minor benefit>`, `<your stance>` brings far greater advantages in terms of `<key benefit or impact>`.
+Thus, I firmly believe that `<restate your view>` is the most practical and beneficial choice in the modern era.
+This is because it `<final justification or summary reason>`.
 
 ---
 
@@ -126,13 +170,17 @@ IF (question asks for your opinion):
         → "In my opinion, both sides have merit, but <your stance> is more (practical or) beneficial in the modern context."
         ├ "In my opinion, although <acknowledge opposing side>, I believe that <preferred view> is more practical in <context>."
 
-    [2–3] Explain why your stance outweighs others
+    [2] Explain why your stance outweighs others
         → "This is because <reason/explanation>."
         ├ "This is mainly because <reason 1> and <reason 2> directly contribute to <benefit>."
 
+    [3] More explain in one-side
+        → "Furthermore, <reason 2>, which shows why this approach brings long-term advantages."  
+
     [4] (optional) Offer balanced suggestion
-        → "Ideally, combining the strengths of both perspectives — such as <example of balance> — could yield the best (desirable) outcomes."
-        ├ "Ideally, combining both perspectives — such as <example of balance> — could produce the best outcomes."
+        → "Ideally, while the opposing view has some merit, focusing on <your stance> remains the most realistic and sustainable approach in today’s world."  
+        ├ "Ideally, combining the strengths of both perspectives, such as <example of balance>, which could/would yield the best (desirable) outcomes."
+        ├ "Ideally, combining both perspectives, such as <example of balance>, which could/would produce the best outcomes."
 
 ELSE IF opinion == one_side_view_1_or_2:
     [1] "Personally, I am more convinced by the argument that <view 1/2>, since <reason>."

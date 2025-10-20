@@ -76,6 +76,7 @@ plugins:
         options:
           extensions:
           - griffe_typingdoc
+          - pymdownx.arithmatex
           show_root_heading: true
           show_if_no_docstring: true
           preload_modules:
@@ -92,6 +93,7 @@ plugins:
           signature_crossrefs: true
           show_symbol_type_heading: true
           show_symbol_type_toc: true
+          generic: true
 
 # Combined navigation from both sites
 nav:
@@ -101,8 +103,11 @@ nav:
     - Task 2 Templates: ielts/writing-task2-templates.md
     - Task 2 Samples: ielts/writing-task2-samples.md
     - Synonyms List: ielts/writing-synonyms-list.md
+    - Linking & Replacement: ielts/writing-linking-replacement.md  
   - Grammer:
     - V + adj: ielts/grammar-v-adj.md
+  - Listening:
+    - Number and Letter: ielts/listening-number-letter.md
   
 
 markdown_extensions:
@@ -144,6 +149,9 @@ markdown_extensions:
   mdx_include: null
   markdown_include_variants: null
 
+  pymdownx.arithmatex:
+    generic: true
+
 extra:
   social:
   - icon: fontawesome/brands/github-alt
@@ -164,6 +172,7 @@ extra_css:
 extra_javascript:
 - js/termynal.js
 - js/custom.js
+- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 hooks:
 - scripts/mkdocs_hooks.py

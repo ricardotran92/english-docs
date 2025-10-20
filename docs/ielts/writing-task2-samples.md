@@ -29,25 +29,25 @@ In my view, both perspectives have valid points, yet the effectiveness of each l
 ---
 
 **Body Paragraph 1 — View 1**
-On the one hand, remaining in one company can be highly advantageous for many workers.
-Firstly, it allows individuals to gain in-depth knowledge of the organization’s culture, structure, and workflow. This often leads to increased trust from management and higher chances of promotion.
-Secondly, long-term employment provides job security and emotional stability. For example, many Japanese firms value loyalty and reward long-serving employees with lifetime contracts and retirement benefits.
+On the one hand, there are several reasons why many workers choose to remain in one company.
+Firstly, it allows individuals to gain in-depth knowledge of the organization’s culture, structure, and workflow. This enables them to build strong internal networks and often leads to increased trust from management, which enhances their promotion prospects.
+Secondly, long-term employment provides job security and emotional stability. For instance, many Vietnamese firms value loyalty and reward long-serving employees with lifetime contracts and retirement benefits.
 As a result, staying with one company can create a sense of belonging and long-term satisfaction.
 
 ---
 
 **Body Paragraph 2 — View 2**
-On the other hand, changing companies periodically can offer wider experiences and faster career advancement.
-When professionals move between organizations, they can acquire new skills, broaden their networks, and adapt to different working environments.
-Moreover, frequent transitions often lead to higher salaries and better career prospects. For instance, many tech workers in Silicon Valley switch jobs every few years to take on new challenges and negotiate better compensation.
-Therefore, career mobility is often viewed as a way to remain competitive in today’s rapidly evolving job market.
+On the other hand, there are convincing reasons why many employees prefer to change companies periodically.
+To begin with, moving between organizations helps them acquire diverse skills and adapt to different working cultures. This enables them to broaden their professional networks and accelerate career advancement.
+Moreover, frequent transitions often lead to higher salaries and greater job satisfaction. For instance, many IT professionals in major Vietnamese cities such as Ho Chi Minh City or Hanoi often change jobs every few years to pursue new technologies and negotiate better salaries.
+Therefore, career mobility is often regarded as an effective strategy to remain competitive in today’s rapidly evolving job market.
 
 ---
 
 **Body Paragraph 3 — Opinion / Synthesis**
 In my opinion, both sides have merit, but a balanced approach is most practical.
 This is because staying too long in one company can lead to stagnation, whereas moving too frequently might prevent deep skill development.
-Ideally, individuals should remain in a company long enough to master their role, and then seek new challenges elsewhere to expand their horizons.
+Ideally, individuals should remain in a company long enough to master their role, such as staying for several years to build expertise, which would then allow them to seek new challenges elsewhere to expand their horizons.
 
 ---
 
@@ -79,38 +79,39 @@ Nevertheless, combining both approaches — stability in the early stages and fl
 #### **Band 9 Model Answer (One-Sided Opinion)**
 
 **Introduction**
-People hold contrasting opinions about whether students should dedicate all their time to academic subjects or also engage in extracurricular activities.
-While prioritizing academics may improve academic performance, I firmly believe that extracurricular participation plays a crucial role in fostering well-rounded personal development.
+People hold differing opinions about whether students should focus solely on academic subjects or also participate in extracurricular activities.
+While concentrating on academics may offer higher exam performance and clearer routes to top universities, I firmly believe that participating in extracurricular activities is more beneficial in the modern context because it cultivates essential soft skills and emotional resilience.
 
 ---
 
 **Body Paragraph 1 — View 1**
-On the one hand, focusing solely on academic subjects can be beneficial for students who aim to excel in their studies.
-Firstly, it enables them to allocate maximum time and concentration to core disciplines such as mathematics, science, and languages, which are often decisive in university admissions.
-Secondly, academic excellence opens doors to scholarships and better career opportunities. For example, top-performing students in STEM fields often secure prestigious university placements.
-Therefore, it is understandable why some people advocate a purely academic focus.
+On the one hand, there are several reasons why some people support focusing solely on academic subjects.
+Firstly, dedicating full attention to academic study enables students to master key disciplines such as mathematics, science and languages. This enables them to achieve higher grades and secure places at prestigious universities.
+Secondly, strong academic records often attract scholarships and better career prospects. For instance, students who excel in STEM subjects frequently receive offers from leading institutions.
+However, this argument may not hold true in all situations, as it overlooks the importance of interpersonal skills and practical experience required in many modern workplaces.
 
 ---
 
 **Body Paragraph 2 — View 2 (your side)**
-On the other hand, extracurricular activities are equally essential in modern education.
-When students participate in sports, arts, or volunteer work, they develop vital life skills such as teamwork, leadership, and emotional resilience.
-Moreover, such activities enhance creativity and relieve academic stress. For instance, students involved in debate clubs often perform better in communication-based subjects and interviews.
-Thus, extracurricular engagement nurtures both mental and emotional intelligence, preparing students for real-world challenges.
+On the other hand, I strongly agree that extracurricular activities should be integrated with academic study.
+To begin with, participating in sports, arts or volunteer work helps learners develop teamwork, leadership and communication skills. This enables individuals to become more adaptable and confident when facing real-world challenges.
+Moreover, involvement in extracurricular programmes reduces academic stress and nurtures creativity. For instance, students who join debate or music clubs often demonstrate superior communication abilities and perform better in interviews.
+Therefore, integrating extracurricular activities with academic study better prepares young people for both employment and social participation.
 
 ---
 
 **Body Paragraph 3 — Opinion Justification (One-Sided)**
-Personally, I am more convinced by the argument that extracurricular activities should be integrated with academics.
-This approach not only supports intellectual growth but also builds character and social awareness.
-For example, educational systems in Finland emphasize balanced development and consistently rank among the world’s best.
-Therefore, focusing exclusively on academics is unrealistic in a world that values collaboration and creativity as much as technical knowledge.
+In my opinion, integrating extracurricular activities with academic study clearly outweighs the opposing argument.
+This is because employers increasingly seek candidates with both technical knowledge and interpersonal skills.
+Furthermore, combining academic learning with extracurricular engagement improves employability and encourages lifelong learning, which shows why this approach brings long-term advantages.
+Ideally, while the opposing view has some merit, focusing on integrating extracurricular activities with academics remains the most realistic and sustainable approach in today’s world.
 
 ---
 
 **Conclusion**
-In conclusion, while a strong academic foundation is essential, incorporating extracurricular activities ensures students’ holistic development.
-Hence, I strongly believe that schools should strike a balance between study and play to produce competent and adaptable future citizens.
+In conclusion, although focusing solely on academic subjects provides strong academic foundations, integrating extracurricular activities leads to more holistic development.
+Thus, I firmly believe that combining academic study with extracurricular participation is the most practical and beneficial choice in the modern era.
+This is because it equips students with both technical competence and essential interpersonal skills needed for future success.
 
 ---
 
