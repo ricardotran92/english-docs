@@ -61,6 +61,7 @@ Trong Tiếng Anh, người ta đọc số điện thoại bằng cách ghép c�
 | Kilometre/ Kilometer | ki-lô-mét | km |
 | Kilogram | ki-lô-gram | kg |
 | Degree Celsius | độ C | $^\circ\text{C}$ |
+| Degree Fahrenheit | độ F | $^\circ\text{F}$ |
 | Litre/ Liter | lít | l |
 | Milliliter | mi-li-lít | ml |
 
@@ -165,7 +166,7 @@ Có thể thấy câu trả lời của câu 7 và câu 8 đến gần như là 
 7. Cách đọc số khác với thông thường  
 > VD: 1200 → twelve hundred, 2300 → twenty three hundred
  
-8.Chú ý các cặp chữ cái/chữ số có phát âm dễ nhầm lẫn  
+8. Chú ý các cặp chữ cái/chữ số có phát âm dễ nhầm lẫn  
     - A /eɪ/ , H /eɪtʃ/, 8 /eɪt/  
     - B và P  
     - D và T  

@@ -46,43 +46,43 @@ Nevertheless, a balanced approach that embraces elements of both sides can bring
 
 **Introduction**
 
-People hold differing opinions about whether `<restate topic>`.
-While `<paraphrase opposing view>` may offer `<its main advantage>`, I firmly believe that `<your view>` is more `<beneficial/practical>` in the modern context because `<reason>`.
+People hold differing opinions about whether `<clause/phrase: restate topic>`.
+While `<clause/phrase: paraphrase opposing view>` may offer `<n-phrase: its main advantage>`, I firmly believe that `<clause/phrase: your view>` is more beneficial/practical in the modern context because `<n-phrase/clause: reason>`.
 
 ---
 
 **Body Paragraph 1 — Opposing View (Brief & Neutral)**
 
-On the one hand, there are several reasons why `<group 1>` support `<describe opposing view>`.
-Firstly, `<reason 1 with explanation>`. This `<verb: allows/enables/provides>` them to `<result or benefit>`.
-Secondly, `<reason 2 with explanation>`. For instance, `<specific example or situation>`.
-However, this argument may not hold true in all situations, as it overlooks `<main limitation or contrast to your stance>`.
+On the one hand, there are several reasons why `<n-phrase: group 1 (e.g., some people/supporters/advocates)>` support `<clause/phrase: describe opposing view>`.
+Firstly, `<clause: reason 1 with explanation>`. This allows/enables/provides them to `<v-phrase: result or benefit>`.
+Secondly, `<clause: reason 2 with explanation>`. For instance, `<specific example or situation>`.
+However, this argument may not hold true in all situations, as it overlooks `<n-phrase/clause: main limitation or contrast to your stance>`.
 
 ---
 
 **Body Paragraph 2 — Your View (Main Argument)**
 
-On the other hand, I strongly agree that `<your main stance>`.
-To begin with, `<reason 1 with explanation>`. This enables individuals to `<benefit/result>` and better adapt to `<context>`.
-Moreover, `<reason 2 with explanation>`. For example, `<specific scenario/example>` demonstrates how `<your point is more practical or future-oriented>`.
-Therefore, `<why your stance leads to more sustainable or realistic outcomes>`.
+On the other hand, I strongly agree that `<clause/phrase: your main stance>`.
+To begin with, `<clause: reason 1 with explanation>`. This enables individuals to `<v-phrase: benefit/result>` and better adapt to `<n-phrase: context>`.
+Moreover, `<clause: reason 2 with explanation>`. For example, `<specific scenario/example>` demonstrates how `<clause/phrase: your point is more practical or future-oriented>`.
+Therefore, `<clause/phrase: why your stance leads to more sustainable or realistic outcomes>`.
 
 ---
 
 **Body Paragraph 3 — Opinion Justification / Reinforcement (Optional but Band-boosting)**
 
-In my opinion, `<your stance>` clearly outweighs the opposing argument.
-This is because `<key justification or evidence>`.
-Furthermore, `<reason 2 or consequence>`, which shows why this approach brings long-term advantages.
-Ideally, while the opposing view has some merit, focusing on `<your stance>` remains the most realistic and sustainable approach in today’s world.
+In my opinion, `<clause/phrase: your stance>` clearly outweighs the opposing argument.
+This is because `<clause: key justification or evidence>`.
+Furthermore, `<clause/phrase: reason 2 or consequence>`, which shows why this approach brings long-term advantages.
+Ideally, while the opposing view has some merit, focusing on `<n-phrase/gerund: your stance>` remains the most realistic and sustainable approach in today’s world.
 
 ---
 
 **Conclusion**
 
-In conclusion, although `<summarize opposing view>` provides `<minor benefit>`, `<your stance>` brings far greater advantages in terms of `<key benefit or impact>`.
-Thus, I firmly believe that `<restate your view>` is the most practical and beneficial choice in the modern era.
-This is because it `<final justification or summary reason>`.
+In conclusion, although `<clause/phrase: summarize opposing view>` provides `<n-phrase: minor benefit>`, `<clause/phrase: your stance>` brings far greater advantages in terms of `<n-phrase: key benefit or impact>`.
+Thus/Hence, I firmly believe that `<clause: restate your view>` is/represents the most practical and beneficial choice in the modern era.
+This is because it `<clause/phrase: final justification or summary reason>`.
 
 ---
 
@@ -268,3 +268,78 @@ END
 
 
 ---
+
+## 3️⃣🔹 **Universal Band 9 Template (Advantages & Disadvantages – Outweigh Type)**
+
+---
+
+### **Introduction**
+
+People hold differing opinions about whether `<restate topic>`.
+Although this development/topic/issue may introduce certain drawbacks such as `<n-phrase/gerund: main disadvantage>`, I firmly believe that its advantages—particularly `<clause/phrase: main advantage>`—far outweigh these disadvantages in the modern context.
+
+---
+
+### **Body Paragraph 1 — Advantages (Main Argument)**
+
+On the one hand, there are numerous/remarkable advantages resulting from `<phrase/gerund: topic>`.
+Firstly, `<clause: advantage 1 with explanation>`. This allows/enables/helps individuals or society to `<v-phrase: positive outcome>`.
+Secondly, `<clause: advantage 2 with explanation>`. For instance, `<specific scenario or evidence>` clearly introduces/demonstrates how `<n/v-phrase: positive consequence>`.
+Therefore, `<n-phrase: topic>` plays a crucial role in promoting `<n-phrase: broader benefit or progress>` and fostering/contributing positively to `<n-phrase: long-term impact>`.
+
+---
+
+### **Body Paragraph 2 — Disadvantages (Brief & Balanced)**
+
+On the other hand, several drawbacks associated with `<n-phrase: topic>` should not be overlooked.
+To begin with, `<clause: disadvantage 1 with explanation>`. This may result in (/lead to) `<n-phrase: negative impact or challenge>`.
+Moreover, `<clause: disadvantage 2 with explanation>`. For example, `<relevant example>` illustrates/shows that `<clause: negative effect>`.
+[Optional] However, these issues are relatively minor and can be effectively mitigated through `<n-phrase: possible solution or policy>`, making the drawbacks/disadvantages far less significant compared to (/than) the advantages discussed above.
+
+---
+
+### **Body Paragraph 3 — Why Advantages Outweigh Disadvantages (Optional – Band-boosting)**
+
+In my opinion, the advantages/benefits of `<phrase/gerund: topic>` clearly outweigh the disadvantages/drawbacks.
+This is because `<clause: key justification or evidence showing long-term value>`.
+Furthermore, `<clause: additional reason or consequence>`, which proves that focusing on `<n-phrase/gerund: advantage>` is a more realistic and sustainable approach.
+Ideally, while some limitations remain, the overall positive impact of `<n-phrase: topic>` is undeniable in today’s world.
+
+---
+
+### **Conclusion**
+
+In conclusion, although `<n-phrase/gerund: summarize main disadvantage>` may cause/pose certain challenges, the advantages of `<n-phrase: topic>`—such as `<n-phrase: key benefits>`—are far greater in both scope and significance.
+Thus/Hence, I firmly/strongly believe that `<clause: restate your position>` represents the most practical and beneficial direction in the modern era.
+
+---
+
+*Optional: Có thể lược bỏ nếu muốn bài viết ngắn, thời gian gấp.
+
+---
+
+### 🧠 **Ghi nhớ cấu trúc (cực dễ học thuộc):**
+
+| **Phần**                   | **Mục tiêu**                                    | **Gợi ý cấu trúc câu**                                                |
+| -------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- |
+| **Introduction**           | Nêu vấn đề + Quan điểm rõ ràng                  | “Although X causes some drawbacks, its advantages far outweigh them.” |
+| **Body 1 (Advantages)**    | Trình bày mặt tích cực (chi tiết, ví dụ cụ thể) | “On the one hand, there are numerous advantages…”                     |
+| **Body 2 (Disadvantages)** | Nêu hạn chế (ngắn, khách quan, cân bằng)        | “On the other hand, several drawbacks should not be overlooked…”      |
+| **(Body 3 – Optional)**    | Giải thích vì sao advantages > disadvantages    | “In my opinion, the advantages clearly outweigh the disadvantages…”   |
+| **Conclusion**             | Tóm tắt + khẳng định lại quan điểm              | “Although X presents some challenges, its benefits are far greater…”  |
+
+---
+
+💡 **Pro tip để học nhanh:**
+Template này giống Discussion Essay ở:
+
+* Cách mở đoạn (“On the one hand / On the other hand / In my opinion / In conclusion”)
+* Cấu trúc song song từng đoạn
+* Dạng diễn đạt học thuật, dễ mở rộng từ vựng
+
+Nhưng logic triển khai thì theo **Format 1 (Advantages → Disadvantages → Outweigh)** đúng như bạn muốn.
+
+---
+
+Bạn có muốn mình làm **phiên bản mẫu Band 9 đầy đủ** cho đề “Improved medical care → people living longer” **dựa đúng trên template này** không?
+→ Bài đó sẽ giúp bạn học cách cắm nội dung vào khung này chính xác 100%.
