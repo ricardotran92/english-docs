@@ -100,6 +100,7 @@ nav:
 - Home: index.md
 - IELTS:
   - Writing:
+    - Task 1 Samples: ielts/writing-task1-samples.md
     - Task 2 Templates: ielts/writing-task2-templates.md
     - Task 2 Samples: ielts/writing-task2-samples.md
     - Synonyms List: ielts/writing-synonyms-list.md
@@ -108,6 +109,8 @@ nav:
     - V + adj: ielts/grammar-v-adj.md
   - Listening:
     - Number and Letter: ielts/listening-number-letter.md
+- Dictionaries:
+  - WordNet: dictionaries/wordnet.md
   
 
 markdown_extensions:
