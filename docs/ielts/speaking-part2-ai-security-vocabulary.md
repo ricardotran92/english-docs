@@ -10,42 +10,42 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **1. computationally intensive**
 
-→ yêu cầu nhiều tài nguyên tính toán
+→ yêu cầu nhiều tài nguyên tính toán  
 **“Training deep learning models is computationally intensive, especially with large datasets.”**
 
  **2. data-driven approach**
 
-→ cách tiếp cận dựa trên dữ liệu
+→ cách tiếp cận dựa trên dữ liệu  
 **“I prefer a data-driven approach, especially when working on cybersecurity problems.”**
 
  **3. pattern recognition**
 
-→ khả năng nhận dạng mẫu
+→ khả năng nhận dạng mẫu  
 **“AI excels at pattern recognition, which is essential for detecting malicious files.”**
 
  **4. high-dimensional data**
 
-→ dữ liệu nhiều chiều
+→ dữ liệu nhiều chiều  
 **“Medical imaging often involves high-dimensional data, which deep learning handles well.”**
 
  **5. generalization ability**
 
-→ khả năng tổng quát hóa
+→ khả năng tổng quát hóa  
 **“A good model should have strong generalization ability, not just memorize the training set.”**
 
  **6. model interpretability**
 
-→ khả năng giải thích mô hình
+→ khả năng giải thích mô hình  
 **“In cybersecurity, model interpretability is important because we need to understand why a threat is flagged.”**
 
  **7. real-world deployment**
 
-→ triển khai thực tế
+→ triển khai thực tế  
 **“Real-world deployment is very different from academic testing.”**
 
  **8. predictive analytics**
 
-→ phân tích dự đoán
+→ phân tích dự đoán  
 **“Predictive analytics can help organizations avoid potential security breaches.”**
 
 ---
@@ -54,37 +54,37 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **9. neural architecture**
 
-→ cấu trúc mạng nơ-ron
+→ cấu trúc mạng nơ-ron  
 **“Choosing the right neural architecture is crucial for performance.”**
 
  **10. feature extraction**
 
-→ trích xuất đặc trưng
+→ trích xuất đặc trưng  
 **“Traditional ML relies heavily on feature extraction, whereas deep learning learns features automatically.”**
 
  **11. training pipeline**
 
-→ quy trình huấn luyện
+→ quy trình huấn luyện  
 **“Setting up a clean training pipeline is half the battle in research.”**
 
  **12. overfitting / underfitting**
 
-→ quá khớp / chưa khớp
+→ quá khớp / chưa khớp  
 **“Handling overfitting is always a challenge, especially with limited data.”**
 
  **13. transfer learning**
 
-→ học chuyển giao
+→ học chuyển giao  
 **“Transfer learning is incredibly helpful in medical imaging.”**
 
  **14. state-of-the-art (SOTA)**
 
-→ hiện đại nhất, tốt nhất
+→ hiện đại nhất, tốt nhất  
 **“Transformers still achieve state-of-the-art performance in many areas.”**
 
  **15. scalability**
 
-→ khả năng mở rộng
+→ khả năng mở rộng  
 **“One challenge in deep learning research is scalability when deploying models in industry.”**
 
 ---
@@ -93,42 +93,42 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **16. attack surface**
 
-→ bề mặt tấn công
+→ bề mặt tấn công  
 **“The more connected a system is, the larger its attack surface becomes.”**
 
  **17. threat intelligence**
 
-→ phân tích, giám sát mối đe dọa
+→ phân tích, giám sát mối đe dọa  
 **“Threat intelligence is increasingly powered by machine learning.”**
 
  **18. vulnerability exploitation**
 
-→ khai thác lỗ hổng
+→ khai thác lỗ hổng  
 **“Many cyber-attacks rely on vulnerability exploitation.”**
 
  **19. anomaly detection**
 
-→ phát hiện bất thường
+→ phát hiện bất thường  
 **“AI-based anomaly detection is effective for spotting suspicious patterns.”**
 
  **20. adversarial attacks**
 
-→ tấn công đối nghịch vào mô hình AI
+→ tấn công đối nghịch vào mô hình AI  
 **“Adversarial attacks show that AI systems themselves also need security.”**
 
  **21. digital forensics**
 
-→ pháp y số
+→ pháp y số  
 **“Digital forensics helps analyze compromised systems after an attack.”**
 
  **22. encryption & decryption**
 
-→ mã hóa & giải mã
+→ mã hóa & giải mã  
 **“Encryption plays a critical role in protecting sensitive data.”**
 
  **23. intrusion attempts**
 
-→ các nỗ lực xâm nhập
+→ các nỗ lực xâm nhập  
 **“Modern systems face thousands of intrusion attempts daily.”**
 
 ---
@@ -137,27 +137,27 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **24. empirical evidence**
 
-→ bằng chứng thực nghiệm
+→ bằng chứng thực nghiệm  
 **“My research provides empirical evidence that ML can detect malicious PDFs effectively.”**
 
  **25. rigorous evaluation**
 
-→ đánh giá nghiêm ngặt
+→ đánh giá nghiêm ngặt  
 **“A rigorous evaluation process is essential for any AI model.”**
 
  **26. multidisciplinary perspective**
 
-→ góc nhìn đa ngành
+→ góc nhìn đa ngành  
 **“AI security requires a multidisciplinary perspective.”**
 
  **27. reproducibility**
 
-→ tính tái lập
+→ tính tái lập  
 **“Reproducibility is a major concern in AI research.”**
 
  **28. research methodology**
 
-→ phương pháp nghiên cứu
+→ phương pháp nghiên cứu  
 **“My research methodology combines ML experiments with cybersecurity analysis.”**
 
 ---
@@ -166,7 +166,7 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **29. “from a technical standpoint”**
 
-→ từ góc nhìn kỹ thuật
+→ từ góc nhìn kỹ thuật  
 **“From a technical standpoint, this challenge is similar to training a deep learning model.”**
 
  **30. “in a real-world security context”**
@@ -179,12 +179,12 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **32. “this parallels the way…”**
 
-→ điều này song song với…
+→ điều này song song với…  
 **“This parallels the way ML models adjust their parameters.”**
 
  **33. “it’s analogous to…”**
 
-→ tương tự với…
+→ tương tự với…  
 **“It’s analogous to how cybersecurity systems filter malicious traffic.”**
 
 ---
@@ -195,22 +195,22 @@ Mình phân chia theo **nhóm ngữ nghĩa**, mỗi từ có **định nghĩa đ
 
  **34. “crack the code”**
 
-→ giải quyết vấn đề
+→ giải quyết vấn đề  
 **“In AI research, sometimes you spend days trying to crack the code.”**
 
  **35. “a double-edged sword”**
 
-→ con dao hai lưỡi
+→ con dao hai lưỡi  
 **“AI is a double-edged sword — it helps security but also creates new risks.”**
 
  **36. “in the long run”**
 
-→ về lâu dài
+→ về lâu dài  
 **“Improving cybersecurity awareness will benefit everyone in the long run.”**
 
  **37. “push the boundaries”**
 
-→ vượt giới hạn
+→ vượt giới hạn  
 **“Researchers are constantly pushing the boundaries of what AI can do.”**
 
 ---

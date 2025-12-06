@@ -109,6 +109,16 @@ nav:
     - V + adj: ielts/grammar-v-adj.md
   - Listening:
     - Number and Letter: ielts/listening-number-letter.md
+  - Speaking:
+  #   - Part 1:
+    - Part 2:
+      - Overview: ielts/speaking-overview.md
+      - Cue Cards: ielts/speaking-part2-cue-cards.md
+      - Topic-steering: ielts/speaking-part2-topic-steering.md
+      - Templates: ielts/speaking-part2-templates.md
+      - Sample Answers: ielts/speaking-part2-sample-answers.md
+      - AI-Security Vocabulary: ielts/speaking-part2-ai-security-vocabulary.md
+  #   - Part 3:
 - Dictionaries:
   - WordNet: dictionaries/wordnet.md
   
